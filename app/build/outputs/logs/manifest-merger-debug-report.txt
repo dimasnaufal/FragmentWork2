@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\4752a519a6ec3619d167b137cf6bebecf1bc3124\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\97dbf6ba163c860a18f48680cba6b64003ece8ce\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\08c83574f20cdca15d342041aa0d893aab12823c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\HP\.android\build-cache\9e4dd02537cec79432697421a475e066670c7c79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\cca87ea37ecbfcb59697a23da6cc0497fc224b1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6a8cf368afba220a98f836bb4e5c84a2c6d1b3a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\HP\.android\build-cache\beba4f5d1bbaf103a4f2f1640aee7ef08f51f375\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6fe649be6fac87c6e87da403dc17a8c0ad10c5fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\b121ec2b1d2f5d2f1268a892151c183cffe7736a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:11:9-40
+activity#polinema.fragment.HomeScreen
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:12:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:16:27-74
+activity#polinema.fragment.DetailActivity
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:19:19-49
+activity#polinema.fragment.MainActivity
+ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\4752a519a6ec3619d167b137cf6bebecf1bc3124\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\97dbf6ba163c860a18f48680cba6b64003ece8ce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\08c83574f20cdca15d342041aa0d893aab12823c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\HP\.android\build-cache\9e4dd02537cec79432697421a475e066670c7c79\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\cca87ea37ecbfcb59697a23da6cc0497fc224b1c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6a8cf368afba220a98f836bb4e5c84a2c6d1b3a6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\HP\.android\build-cache\beba4f5d1bbaf103a4f2f1640aee7ef08f51f375\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6fe649be6fac87c6e87da403dc17a8c0ad10c5fe\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\b121ec2b1d2f5d2f1268a892151c183cffe7736a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\smst7\Android\project\Fragment\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\4752a519a6ec3619d167b137cf6bebecf1bc3124\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\HP\.android\build-cache\97dbf6ba163c860a18f48680cba6b64003ece8ce\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\HP\.android\build-cache\9e4dd02537cec79432697421a475e066670c7c79\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\cca87ea37ecbfcb59697a23da6cc0497fc224b1c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6a8cf368afba220a98f836bb4e5c84a2c6d1b3a6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\HP\.android\build-cache\beba4f5d1bbaf103a4f2f1640aee7ef08f51f375\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\HP\.android\build-cache\6fe649be6fac87c6e87da403dc17a8c0ad10c5fe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\HP\.android\build-cache\b121ec2b1d2f5d2f1268a892151c183cffe7736a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\HP\.android\build-cache\ad3a344f0f32f4bf4eb79429799bbc72cb966f04\output\AndroidManifest.xml:26:9-47
